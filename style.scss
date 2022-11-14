@@ -33,7 +33,29 @@ ol, ul, menu {
 img {
     max-width: 100%;
 }
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    justify-content: space-around;
+}
+.div1{
+    // border: 1px solid gold;
+    background-color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: darkred;
+}
+.btn{
+    background-color: gold;
+    width: 50px;
+    color: #fff;
+}
 
 
 // Your stylings should start here......
